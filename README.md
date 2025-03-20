@@ -1,5 +1,17 @@
 # .NET Benchmarks
 
+.NET Performance Analysis: Newtonsoft.Json vs System.Text.Json in .NET 8
+
+https://trevormccubbin.medium.com/net-performance-analysis-newtonsoft-json-vs-system-text-json-in-net-8-34520c21d054
+
+https://github.com/gtechsltn/DotnetBenchmarks
+
+.NET Performance #2: Newtonsoft vs. System.Text.Json
+
+https://medium.com/@tobias.streng/net-performance-series-2-newtonsoft-vs-system-text-json-2bf43e037db0
+
+https://github.com/gtechsltn/NET7-Performance
+
 ## Overview
 
 Welcome to my .NET Benchmarks repository! This repository is dedicated to benchmarking performance in .NET applications. Whether you're optimizing code, comparing different implementations, or evaluating the impact of changes, this collection of benchmarks will help you make informed decisions about the performance of your .NET projects.
